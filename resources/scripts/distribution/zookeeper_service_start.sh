@@ -1,0 +1,1 @@
+service zookeeper-server start
